@@ -1,0 +1,23 @@
+# Force correct MIME types for static assets
+AddType application/javascript .js .mjs
+AddType text/css .css
+AddType application/json .json
+AddType image/svg+xml .svg
+AddType application/wasm .wasm
+
+# Serve .js files with correct MIME type for ES modules
+<IfModule mod_headers.c>
+  <FilesMatch "\.js$">
+    Header set Content-Type "application/javascript"
+  </FilesMatch>
+</IfModule>
+
+# SPA fallback: redirect unknown routes to index.html
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>

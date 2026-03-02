@@ -1,0 +1,22 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "products": "Our Products",
+        "downloads": "Downloads",
+        "export": "Export",
+        "industries": "Industries",
+        "contact": "Contact Us"
+    },
+    "hero": {
+        "pipe": "PIPE SOLUTIONS THAT DELIVER STRENGTH, FLEXIBILITY & TRUST",
+        "tarpaulin": "SMART COVERING SOLUTIONS FOR GLOBAL NEEDS",
+        "rope": "STRONGER ROPES, STRONGER BONDS",
+        "shade_net": "SHADE SOLUTIONS THAT PROTECT, PERFORM & PRESERVE",
+        "packaging_strap": "SECURE STRAPPING. STRONGER PACKAGING"
+    },
+    "welcome": {
+        "title": "Welcome to BLUE WORLD",
+        "description": "ONE SOURCE, MULTIPLE SOLUTIONS, GLOBAL STANDARDS. Blue World Exports is a premier international trade partner specializing in the global export of high-quality industrial and agricultural products, including premium ropes, tarpaulins, shade nets, packaging straps, and industrial pipes. We focus on delivering strength, flexibility, and trust through every shipment we export."
+    }
+}

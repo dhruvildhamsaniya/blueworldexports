@@ -1,0 +1,325 @@
+Project overview (goal)
+Build a pixel-perfect, fully responsive, mobile-first static website for BLUE WORLD (export/import company). Frontend only (static site), but production-ready (deployable to Vercel/Netlify). Provide quality code, assets structure, docs, and guidance to integrate simple backends (forms, analytics) if needed. Use modern, widely supported stack (Antigravity may choose), but prefer React + Tailwind (or Next.js static export / Astro) + Framer Motion/Lottie for animations. Deliver accessible, SEO-friendly, image-optimized assets, and downloadable brochures.
+
+High-level requirements
+
+Multi-language support: default english. Language switcher in navbar & footer. Use i18n JSON files or a static file-per-language approach with hreflang and per-language URL prefixes (/en/*).
+
+Light / Dark theme toggle persisted (localStorage + prefers-color-scheme fallback). Theme switch in navbar and footer.
+
+Responsive: mobile-first breakpoints: 375px, 412px, 640px, 768px, 1024px, 1280px. Ensure touch targets >= 44px and mobile navigation (hamburger).
+
+Accessibility: WCAG AA (contrast, keyboard nav, skip links, ARIA labels, semantic headings, alt attributes on all images).
+
+Performance: image optimization (AVIF/WebP fallbacks), responsive srcset, lazy loading, code-splitting, minimal JS, preconnect for external domains, webfont loading best practices, Lighthouse target >= 90 (mobile/desktop).
+
+SEO & metadata: page titles, meta description, canonical URLs, open graph tags, Twitter cards, structured data (schema.org Organization + Product + BreadcrumbList), sitemap.xml, robots.txt. Provide sample meta content per page.
+
+Forms & contact: contact form (Netlify Forms / Formspree fallback) + WhatsApp link (click-to-chat) + mailto fallback. Form validation & CAPTCHA spam protection guidance.
+
+Deployment: provide instructions for Vercel/Netlify, CI, and a short README explaining how to update content & add languages.
+
+Pages & exact content / behavior (component-level details)
+Global (navbar + footer)
+
+Navbar items: Home, About Us, Our Products, Download, Export, Industry, Contact Us. Responsive: collapsed hamburger on mobile, accessible focus states, accent animation on active item. Include language switcher and theme toggle in navbar.
+
+Footer: mirror contact info, quick links, social icons, language, copyright, small sitemap links. Use structure similar to empellaexports.com footer.
+
+Contact details to include exactly:
+Office No 316, Nakshatra 7 Commercial Complex, Raiya Rd, Near Bapa Sitaram Chowk, Rajkot, Gujarat 360005, India.
+Office contact: +91 87587 30666
+Email: exportsblueworld@gmail.com
+
+Sales: +91 97259 72924
+Inquiry email: info@blueworldexports.com
+
+Facebook / Instagram links provided in original brief.
+
+Page 1 — Home (hero, welcome, products, footer)
+
+Hero (use visual/reference from empellaexports.com):
+
+Full-width hero with subtle parallax or gradient overlay, product carousel of images with their slogans (auto-play but pause on hover, accessible controls).
+
+Slogans (exact text — use as H1/H2 overlay per slide):
+
+PIPE — PIPE SOLUTIONS THAT DELIVER STRENGTH, FLEXIBILITY & TRUST
+
+TARPAULIN — SMART COVERING SOLUTIONS FOR GLOBAL NEEDS
+
+ROPE — STRONGER ROPES, STRONGER BONDS
+
+SHADE NET — SHADE SOLUTIONS THAT PROTECT, PERFORM & PRESERVE
+
+PACKAGING STRAP — SECURE STRAPPING. STRONGER PACKAGING
+
+Image assets placeholders: pipes, tarpauline, rope, shade_net, packaging_strap. Provide recommended sizes/resolutions.
+
+Welcome section (layout inspired by makadiainternational.com):
+
+Two-column: left = short company description (use text you provided), right = autoplay muted short mp4/mp4 thumbnail. Mobile: stack with video below description. Video uses playsinline and optimized.
+
+Our Products (grid)
+
+Grid of product cards showing product name, one-line description, and image. On hover: image zoom/scale with overlay and a micro-animation (fade/translate). Cards link to product detail pages. Provide animation details (Framer Motion: subtle vertical lift + shadow). Use a CSS-only fallback for non-JS.
+
+Footer — match reference.
+
+Page 2 — About Us (structured sections)
+
+Section 1: left large slogan (big typographic treatment): ONE SOURCE, MULTIPLE SOLUTIONS, GLOBAL STANDARDS. Right: "About Us" paragraph — use the exact text you gave.
+
+Section 2: "Why choose us?" — big text Strong Roots + Global Reach + Lasting Materials = Blue world exports with 4–5 lines description left aligned; big company logo on right.
+
+Section 3: Two cards horizontally (Quality Assurance, CEO message) with icons, readable body text, CTA where appropriate.
+
+Section 4: Four cards for strategic pillars (MISSION, VISION, OUR EDGE, SOCIAL). Use iconography, short paragraphs, and accessible accordion behavior on mobile if space is tight.
+
+Page 3 — Our Products (index + product category pages)
+
+Products index — same style as home product grid with hover reveal and link to product detail page.
+
+Product detail page (for each main product)
+URL structure: /products/{product-slug}. Show:
+
+Left: image slider (thumbs + main image) showing different colours/variants of that subcategory. Use a touch-friendly carousel with swipe support. Provide alt text and captions.
+
+Right: two prominent buttons: Inquiry via Email (mailto with prefilled subject) and Inquiry via WhatsApp (https://wa.me/…
+ with prefilled text). Under them, an accordion or dropdown selectors for:
+
+Key Features
+
+Applications
+
+Available Sizes
+
+Colours
+
+Download brochure button that triggers direct PDF download (link to /downloads/{product}-brochure.pdf).
+
+Technical / spec table and CTA.
+
+Related products carousel at bottom.
+
+Sub-category behavior
+Each product has sub-categories (pages or anchors) per your list:
+
+Pipe → garden-pipe, suction-pipe, braided-pipe, layflat-pipe
+
+Rope → hdpe-rope, pp-rope
+
+Tarpauline → hdpe-tarpaulin, ldpe-tarpaulin
+
+Shade net → agriculture-shade-net, construction-scaffold-net
+
+Packaging strap → pp-strap, pet-strap
+
+Clicking subcategory goes to its own page with the slider + details as above.
+
+page 4 - downloads
+
+left hand side image of our brochure and right hand side big text "Explore Our Range" with 3-4 line description.
+below section there will be six rows (one for each product) which shows small image of brochure , 3-4 description and download button to download brochure pdf . (image - description - download button)
+1. download general brochure for all products
+2. Pipe
+3. Rope
+4. packaging strap
+5. shade net
+6. tarpauline
+
+Page 5 — Export
+
+Hero image (shipping containers/export imagery). Big heading: Expanding our presence across international market + 4–5 line description.
+
+Global map visual (SVG or responsive image) showing service regions (interactive pins optional).
+
+Product image slider showing products in export contexts.
+
+Footer.
+
+Page 6 — Industries
+
+Hero (similar to export hero). Big heading: Industry we serve.
+
+Grid/list of 10 industries each with an icon/image and 3–4 line description:
+
+Agriculture & irrigation
+
+Construction & infrastructure
+
+Packaging & logistics
+
+Marine & fisheries
+
+Industrial manufacturing
+
+Warehousing & transportation
+
+Mining & quarry operations
+
+Horticulture & greenhouse farming
+
+Oil & chemical industry
+
+Poultry, dairy & livestock farming
+
+Page 7 — Contact Us
+
+Form: Name, Company, Email, Phone, Message, Product Interest dropdown. Form uses client-side validation + Netlify Forms / Formspree. On submit show accessible success message and email + WhatsApp fallback.
+
+Display contact details (exact as provided). Embed Google Map (static + link) with accessible caption.
+
+Social links (facebook / instagram).
+
+UI / Visual / Animation guidelines
+
+Visual language: industrial + trustworthy. Use blue primary palette (shades) + neutral greys. Respect brand name BLUE WORLD.
+
+Typography: large, bold hero font; legible body font. Use system fonts fallback; consider Google fonts but implement preload & font-display: swap.
+
+Micro-interactions: hover lift on product cards, animated hamburger transition, subtle underline animations for nav hover, small Lottie animations for section separators (optional).
+
+Hero carousel: autoplay 4–6s, pause on hover, keyboard controls.
+
+Use Framer Motion for page transitions and card hover (or CSS transitions if builder prefers).
+
+Avoid heavy animations on first paint — prefer subtle and defer large animations until after LCP.
+
+Assets & content (what I’ll provide vs. what Antigravity should request)
+
+You (client) will supply: high-res product photos (ideally 1600–2400 px, transparent/background removed variants), company logo in SVG + PNG, video for home welcome (<=10–20s, 1080p), brochures in PDF, and translations for Hindi copy. Antigravity should produce low-res/optimized versions and responsive variants (webp/avif).
+
+Image naming: product-pipe-01.avif, pipe-hero.webp, brochure-pipe.pdf.
+
+Provide image dimension recommendations in the deliverable (e.g., hero 1920×800, card thumbnails 800×600, slider images 1200×800).
+
+I18n & Multilanguage specifics
+
+Implement en and hi by default. All static strings stored in locales/en.json and locales/hi.json with keys per component.
+
+Language detection: prefer query/URL prefix or Accept-Language fallback. Provide hreflang tags for each page.
+
+Right-to-left? Not required (Hindi is LTR).
+
+SEO & Structured Data (must be implemented)
+
+Page-level meta templates:
+
+Title pattern: {Page Title} | BLUE WORLD — Pipes, Tarpaulins, Ropes, Strapping
+
+Meta description: 140–160 chars; unique per page.
+
+Add OpenGraph tags and images (og:image 1200×630) and Twitter card meta.
+
+Add structured data: Organization schema with same contact info, Product schema for each product with name, description, image, url, sku (if available), BreadcrumbList on product pages.
+
+Automatically generate sitemap.xml and register with Google Search Console (instructions in README).
+
+Provide accessible HTML5 semantic headings and H1 per page (avoid duplicate H1s).
+
+Performance & Build optimizations
+
+Use responsive images with srcset and sizes. Generate WebP/AVIF + fallback. Lazy load offscreen images (loading="lazy").
+
+Defer non-critical JS. Minimize main bundle, tree-shake.
+
+Use caching headers and hashed filenames for assets.
+
+Fonts: preload critical fonts only; use font-display: swap.
+
+Lighthouse performance targets: LCP < 2.5s on mobile 4G, CLS < 0.1, TBT low.
+
+Accessibility & QA
+
+Keyboard accessible components, aria-* attributes for interactive elements, focus ring visible, color contrast >= 4.5:1 for body text.
+
+Provide automated accessibility checks using axe/Lighthouse and a short QA checklist.
+
+Cross-browser testing: Chrome, Safari (iOS), Firefox, Edge on desktop + latest mobile Safari and Chrome.
+
+Integrations & optional features
+
+Analytics: GA4 or Matomo (configurable). Consent banner for GDPR.
+
+Forms: Netlify Forms or Formspree + reCAPTCHA or honeypot.
+
+Hosting: deploy-ready to Vercel/Netlify; include netlify.toml or Vercel config.
+
+CMS option (optional): Contentful/Netlify CMS / Sanity if client wants non-dev editing — recommend as optional add-on.
+
+Deliverables (explicit)
+
+Full source code (prefer single repo) with clear file structure and components (React/Tailwind recommended), or choose tech stack as antigravity prefers
+
+README.md with:
+
+How to run locally
+
+How to build & deploy (Netlify/Vercel steps)
+
+How to update text/images & add languages
+
+SEO checklist & how to submit sitemap
+
+assets/ folder with optimized images (3 sizes each) and PDFs in assets/brochures/.
+
+sitemap.xml, robots.txt, manifest.json (PWA ready), and favicon set.
+
+i18n files (locales/en.json, locales/hi.json) with all text keys filled by default English; Hindi translations can be placeholders if not provided.
+
+Accessibility & Lighthouse report snapshot and a short QA report.
+
+Short deployment guide for Netlify/Vercel + optional contact form setup instructions (Netlify Forms keys or Formspree instructions).
+
+Structured data snippets included in pages.
+
+Acceptance criteria (what “done” looks like)
+
+All pages implemented and accessible via navigation, content matches the spec (slogans, product lists, contact details exactly as provided).
+
+Mobile-first responsive design that looks and works smoothly on small screens (phone), tablet, and desktop.
+
+Language switcher works and URLs contain en/hi prefixes and hreflang is present.
+
+Contact form sends submissions to configured endpoint and WhatsApp/mailto links prefill subject.
+
+Brochure downloads work and are accessible.
+
+SEO meta+OG tags present, structured data present.
+
+Lighthouse mobile score ≥ 80 (aim for ≥90), Accessibility AA.
+
+Code delivered and deployable to Vercel/Netlify with README.
+
+Extra implementation notes for Antigravity (very actionable)
+
+Use Tailwind utility classes for fast responsive builds; use @tailwindcss/typography for content.
+
+Carousels: use accessible carousel library (keen-slider or Swiper) with SSR support.
+
+Use react-i18next or static JSON loader for i18n.
+
+For static hosting: generate minimal JSON for products (name, slug, images[], description, subcategories[]) under data/products.json. Use this to programmatically build product pages.
+
+Ensure each product and subcategory has consistent slug format (kebab-case): e.g., /products/pipe/garden-pipe.
+
+Provide a lightweight CSS-only fallback for animations/transitions if JS disabled.
+
+Provide sample placeholder images and example brochure PDFs until client assets are uploaded.
+
+Example metadata samples (copy/paste)
+
+Homepage title: BLUE WORLD | Exporters of Pipes, Tarpaulins, Ropes & Packaging Straps
+
+Homepage meta description: Blue World Exports — Reliable polymer solutions: pipes, tarpaulins, ropes, shade nets and packaging straps. Quality manufacturing, timely delivery worldwide.
+
+Product page title template: {Product Name} | BLUE WORLD — Exporting {product.type}
+
+If you want, I can also:
+
+Convert this into a JSON/structured spec file (data + page templates) that you can drop directly into Antigravity.
+
+Or generate sample locales/en.json + a sample data/products.json with all products/subcategories and the slogans you gave.
+
+Which of those would help you next — a JSON spec or the example i18n + product data files ready to paste?

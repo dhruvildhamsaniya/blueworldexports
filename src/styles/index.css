@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply antialiased;
+        font-family: 'Inter', system-ui, sans-serif;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: 'Outfit', sans-serif;
+    }
+}
+
+@layer components {
+    .nav-link {
+        @apply relative py-2 transition-colors duration-200 hover:text-primary-600 dark:hover:text-primary-400;
+    }
+
+    .nav-link::after {
+        @apply content-[''] absolute bottom-0 left-0 w-full h-0.5 bg-primary-600 scale-x-0 transition-transform duration-300 origin-right;
+    }
+
+    .nav-link:hover::after,
+    .nav-link.active::after {
+        @apply scale-x-100 origin-left;
+    }
+
+    .glass-card {
+        @apply bg-white/80 dark:bg-gray-900/80 backdrop-blur-md border border-white/20 dark:border-gray-800/20 shadow-xl;
+    }
+
+    .btn-primary {
+        @apply px-6 py-3 bg-brand-blue text-white rounded-lg font-semibold hover:bg-blue-700 transition-all duration-200 shadow-md hover:shadow-lg active:scale-95;
+    }
+
+    .btn-secondary {
+        @apply px-6 py-3 border-2 border-brand-blue text-brand-blue dark:text-blue-400 dark:border-blue-400 rounded-lg font-semibold hover:bg-brand-blue hover:text-white dark:hover:bg-blue-400 dark:hover:text-gray-950 transition-all duration-200;
+    }
+}
+
+/* Custom animations */
+.parallax-bg {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Responsive container */
+.container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}

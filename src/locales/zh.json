@@ -1,0 +1,22 @@
+{
+    "nav": {
+        "home": "首页",
+        "about": "关于我们",
+        "products": "我们的产品",
+        "downloads": "下载中心",
+        "export": "出口业务",
+        "industries": "服务行业",
+        "contact": "联系我们"
+    },
+    "hero": {
+        "pipe": "兼具强度、柔韧性和信誉的管道解决方案",
+        "tarpaulin": "满足全球需求的智能覆盖解决方案",
+        "rope": "更牢固的绳索，更牢固的纽带",
+        "shade_net": "兼具保护、性能和持久的遮阳解决方案",
+        "packaging_strap": "安全捆扎。更牢固的包装"
+    },
+    "welcome": {
+        "title": "欢迎来到 BLUE WORLD",
+        "description": "一个来源，多种解决方案，全球标准。Blue World Exports (环球出口) 是领先的国际贸易合作伙伴，专注于高品质工业和农业产品的全球出口，包括优质绳索、防水布、遮阳网、包装带和工业管道。"
+    }
+}

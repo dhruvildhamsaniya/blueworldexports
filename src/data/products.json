@@ -1,0 +1,107 @@
+[
+    {
+        "id": "pipe",
+        "name": "Pipe",
+        "slug": "pipe",
+        "slogan": "PIPE SOLUTIONS THAT DELIVER STRENGTH, FLEXIBILITY & TRUST",
+        "description": "High-quality industrial and agricultural pipes designed for durability and performance.",
+        "subcategories": [
+            {
+                "id": "garden-pipe",
+                "name": "Garden Pipe",
+                "slug": "garden-pipe"
+            },
+            {
+                "id": "suction-pipe",
+                "name": "Suction Pipe",
+                "slug": "suction-pipe"
+            },
+            {
+                "id": "braided-pipe",
+                "name": "Braided Pipe",
+                "slug": "braided-pipe"
+            },
+            {
+                "id": "layflat-pipe",
+                "name": "Layflat Pipe",
+                "slug": "layflat-pipe"
+            }
+        ]
+    },
+    {
+        "id": "tarpaulin",
+        "name": "Tarpaulin",
+        "slug": "tarpaulin",
+        "slogan": "SMART COVERING SOLUTIONS FOR GLOBAL NEEDS",
+        "description": "Heavy-duty waterproof tarpaulins for protecting your assets in all weather conditions.",
+        "subcategories": [
+            {
+                "id": "hdpe-tarpaulin",
+                "name": "HDPE Tarpaulin",
+                "slug": "hdpe-tarpaulin"
+            },
+            {
+                "id": "ldpe-tarpaulin",
+                "name": "LDPE Tarpaulin",
+                "slug": "ldpe-tarpaulin"
+            }
+        ]
+    },
+    {
+        "id": "rope",
+        "name": "Rope",
+        "slug": "rope",
+        "slogan": "STRONGER ROPES, STRONGER BONDS",
+        "description": "Superior quality ropes for industrial, marine, and agricultural applications.",
+        "subcategories": [
+            {
+                "id": "hdpe-rope",
+                "name": "HDPE Rope",
+                "slug": "hdpe-rope"
+            },
+            {
+                "id": "pp-rope",
+                "name": "PP Rope",
+                "slug": "pp-rope"
+            }
+        ]
+    },
+    {
+        "id": "shade-net",
+        "name": "Shade Net",
+        "slug": "shade-net",
+        "slogan": "SHADE SOLUTIONS THAT PROTECT, PERFORM & PRESERVE",
+        "description": "Optimal shade solutions for agriculture and construction scaffolding.",
+        "subcategories": [
+            {
+                "id": "agriculture-shade-net",
+                "name": "Agriculture Shade Net",
+                "slug": "agriculture-shade-net"
+            },
+            {
+                "id": "construction-scaffold-net",
+                "name": "Construction Scaffold Net",
+                "slug": "construction-scaffold-net"
+            }
+        ]
+    },
+    {
+        "id": "packaging-strap",
+        "name": "Packaging Strap",
+        "slug": "packaging-strap",
+        "slogan": "SECURE STRAPPING. STRONGER PACKAGING",
+        "description": "Reliable strapping solutions for secure transit and storage of goods.",
+        "subcategories": [
+            {
+                "id": "pp-strap",
+                "name": "PP Strap",
+                "slug": "pp-strap"
+            },
+            {
+                "id": "pet-strap",
+                "name": "PET Strap",
+                "slug": "pet-strap"
+            }
+        ]
+    }
+]
