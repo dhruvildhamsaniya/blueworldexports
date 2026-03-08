@@ -1,0 +1,944 @@
+{
+    "hdpe-rope": [
+        {
+            "Nominal Diameter (mm)": 4,
+            "Mass per meter (g/m)": 8.1,
+            "Weight per 110 m (kg)": 0.891,
+            "Weight per 220 m (kg)": 1.782
+        },
+        {
+            "Nominal Diameter (mm)": 6,
+            "Mass per meter (g/m)": 18.2,
+            "Weight per 110 m (kg)": 2.002,
+            "Weight per 220 m (kg)": 4.004
+        },
+        {
+            "Nominal Diameter (mm)": 8,
+            "Mass per meter (g/m)": 32.7,
+            "Weight per 110 m (kg)": 3.597,
+            "Weight per 220 m (kg)": 7.194
+        },
+        {
+            "Nominal Diameter (mm)": 10,
+            "Mass per meter (g/m)": 40.9,
+            "Weight per 110 m (kg)": 4.5,
+            "Weight per 220 m (kg)": 9
+        },
+        {
+            "Nominal Diameter (mm)": 12,
+            "Mass per meter (g/m)": 72,
+            "Weight per 110 m (kg)": 7.92,
+            "Weight per 220 m (kg)": 15.84
+        },
+        {
+            "Nominal Diameter (mm)": 14,
+            "Mass per meter (g/m)": 95,
+            "Weight per 110 m (kg)": 10.45,
+            "Weight per 220 m (kg)": 20.9
+        },
+        {
+            "Nominal Diameter (mm)": 16,
+            "Mass per meter (g/m)": 128,
+            "Weight per 110 m (kg)": 14.08,
+            "Weight per 220 m (kg)": 28.16
+        },
+        {
+            "Nominal Diameter (mm)": 18,
+            "Mass per meter (g/m)": 161,
+            "Weight per 110 m (kg)": 17.71,
+            "Weight per 220 m (kg)": 35.42
+        },
+        {
+            "Nominal Diameter (mm)": 20,
+            "Mass per meter (g/m)": 200,
+            "Weight per 110 m (kg)": 22,
+            "Weight per 220 m (kg)": 44
+        },
+        {
+            "Nominal Diameter (mm)": 22,
+            "Mass per meter (g/m)": 243,
+            "Weight per 110 m (kg)": 26.73,
+            "Weight per 220 m (kg)": 53.46
+        },
+        {
+            "Nominal Diameter (mm)": 24,
+            "Mass per meter (g/m)": 295,
+            "Weight per 110 m (kg)": 32.45,
+            "Weight per 220 m (kg)": 64.9
+        },
+        {
+            "Nominal Diameter (mm)": 28,
+            "Mass per meter (g/m)": 393,
+            "Weight per 110 m (kg)": 43.23,
+            "Weight per 220 m (kg)": 86.46
+        },
+        {
+            "Nominal Diameter (mm)": 32,
+            "Mass per meter (g/m)": 525,
+            "Weight per 110 m (kg)": 57.75,
+            "Weight per 220 m (kg)": 115.5
+        }
+    ],
+    "hdpe-tarpaulin": [
+        {
+            "Parameter": "GSM Range",
+            "Details": "90 \u2013 350 GSM"
+        },
+        {
+            "Parameter": "Material Type",
+            "Details": "Virgin"
+        },
+        {
+            "Parameter": null,
+            "Details": "Semi-Virgin"
+        },
+        {
+            "Parameter": null,
+            "Details": "Commercial"
+        },
+        {
+            "Parameter": "Available Colours",
+            "Details": "Blue"
+        },
+        {
+            "Parameter": null,
+            "Details": "Black"
+        },
+        {
+            "Parameter": null,
+            "Details": "Yellow"
+        },
+        {
+            "Parameter": null,
+            "Details": "Silver/White"
+        },
+        {
+            "Parameter": null,
+            "Details": "Silver/Blue"
+        },
+        {
+            "Parameter": null,
+            "Details": "Blue/Orange"
+        },
+        {
+            "Parameter": null,
+            "Details": "Silver/Black"
+        },
+        {
+            "Parameter": null,
+            "Details": "Custom colours available as per customer requirement"
+        },
+        {
+            "Parameter": "Size",
+            "Details": "Available as per customer requirement"
+        }
+    ],
+    "ldpe-tarpaulin": [
+        {
+            "Parameter": "GSM Range",
+            "Details": "90 \u2013 350 GSM"
+        },
+        {
+            "Parameter": "Material Type",
+            "Details": "Virgin"
+        },
+        {
+            "Parameter": null,
+            "Details": "Semi-Virgin"
+        },
+        {
+            "Parameter": null,
+            "Details": "Commercial"
+        },
+        {
+            "Parameter": "Available Colours",
+            "Details": "Blue"
+        },
+        {
+            "Parameter": null,
+            "Details": "Black"
+        },
+        {
+            "Parameter": null,
+            "Details": "Yellow"
+        },
+        {
+            "Parameter": null,
+            "Details": "Silver/White"
+        },
+        {
+            "Parameter": null,
+            "Details": "Silver/Blue"
+        },
+        {
+            "Parameter": null,
+            "Details": "Blue/Orange"
+        },
+        {
+            "Parameter": null,
+            "Details": "Silver/Black"
+        },
+        {
+            "Parameter": null,
+            "Details": "Custom colours available as per customer requirement"
+        },
+        {
+            "Parameter": "Size",
+            "Details": "Available as per customer requirement"
+        }
+    ],
+    "layflat-pipe": [
+        {
+            "Nominal Size": "mm",
+            "nan": "Bursting Pressure (kg/cm\u00b2)",
+            "Inside Diameter": "mm",
+            "Wall Thickness": "mm",
+            "Pressure (at 30\u00b0C)": "Working Pressure (kg/cm\u00b2)",
+            "Standard Lengths": "meters"
+        },
+        {
+            "Nominal Size": 25,
+            "nan": "11 \u2013 12",
+            "Inside Diameter": "26 \u00b1 1",
+            "Wall Thickness": "1.0 \u00b1 0.1",
+            "Pressure (at 30\u00b0C)": 4,
+            "Standard Lengths": "50 / 60 / 100"
+        },
+        {
+            "Nominal Size": 40,
+            "nan": "11 \u2013 12",
+            "Inside Diameter": "41 \u00b1 1",
+            "Wall Thickness": "1.0 \u00b1 0.1",
+            "Pressure (at 30\u00b0C)": 4,
+            "Standard Lengths": "50 / 60 / 100"
+        },
+        {
+            "Nominal Size": 50,
+            "nan": "8 \u2013 9",
+            "Inside Diameter": "53 \u00b1 1",
+            "Wall Thickness": "1.1 \u00b1 0.1",
+            "Pressure (at 30\u00b0C)": 3,
+            "Standard Lengths": "50 / 60 / 100"
+        },
+        {
+            "Nominal Size": 65,
+            "nan": "6 \u2013 7",
+            "Inside Diameter": "66 \u00b1 1",
+            "Wall Thickness": "1.2 \u00b1 0.1",
+            "Pressure (at 30\u00b0C)": 3,
+            "Standard Lengths": "50 / 60 / 100"
+        },
+        {
+            "Nominal Size": 75,
+            "nan": "6 \u2013 7",
+            "Inside Diameter": "82 \u00b1 1",
+            "Wall Thickness": "1.2 \u00b1 0.1",
+            "Pressure (at 30\u00b0C)": 3,
+            "Standard Lengths": "50 / 60 / 100"
+        },
+        {
+            "Nominal Size": 100,
+            "nan": "6 \u2013 7",
+            "Inside Diameter": "104 \u00b1 2",
+            "Wall Thickness": "1.2 \u00b1 0.1",
+            "Pressure (at 30\u00b0C)": 3,
+            "Standard Lengths": "50 / 60 / 100"
+        },
+        {
+            "Nominal Size": 150,
+            "nan": "5 \u2013 6",
+            "Inside Diameter": "154 \u00b1 3",
+            "Wall Thickness": "1.8 \u00b1 0.1",
+            "Pressure (at 30\u00b0C)": 3,
+            "Standard Lengths": "50 / 60 / 100"
+        },
+        {
+            "Nominal Size": 200,
+            "nan": "3 \u2013 4",
+            "Inside Diameter": "204 \u00b1 3",
+            "Wall Thickness": "2.3 \u00b1 0.2",
+            "Pressure (at 30\u00b0C)": 2,
+            "Standard Lengths": "50 / 60 / 100"
+        },
+        {
+            "Nominal Size": 250,
+            "nan": "2.5 \u2013 3",
+            "Inside Diameter": "257 \u00b1 3",
+            "Wall Thickness": "2.5 \u00b1 0.2",
+            "Pressure (at 30\u00b0C)": 2,
+            "Standard Lengths": "50 / 60 / 100"
+        },
+        {
+            "Nominal Size": 300,
+            "nan": "2.5 \u2013 3",
+            "Inside Diameter": "310 \u00b1 3",
+            "Wall Thickness": "2.7 \u00b1 0.3",
+            "Pressure (at 30\u00b0C)": 2,
+            "Standard Lengths": "50 / 100"
+        }
+    ],
+    "pet-strap": [
+        {
+            "Width (mm) (\u00b1 0.05mm)": 12,
+            "Thickness (mm) (\u00b10.03 mm)": 0.7,
+            "Surface": "Plain",
+            "Length per Kg (meter)": 91,
+            "Break Strength  Flex (kg)": 300,
+            "Break Strength  Balling (kg)": 250,
+            "Break Strength  Pallet (kg)": 225
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": null,
+            "Surface": "Emboss",
+            "Length per Kg (meter)": 103,
+            "Break Strength  Flex (kg)": 268,
+            "Break Strength  Balling (kg)": 235,
+            "Break Strength  Pallet (kg)": 210
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": 12,
+            "Thickness (mm) (\u00b10.03 mm)": 0.8,
+            "Surface": "Plain",
+            "Length per Kg (meter)": 80,
+            "Break Strength  Flex (kg)": 345,
+            "Break Strength  Balling (kg)": 310,
+            "Break Strength  Pallet (kg)": 270
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": null,
+            "Surface": "Emboss",
+            "Length per Kg (meter)": 92,
+            "Break Strength  Flex (kg)": 305,
+            "Break Strength  Balling (kg)": 280,
+            "Break Strength  Pallet (kg)": 235
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": 13,
+            "Thickness (mm) (\u00b10.03 mm)": 0.85,
+            "Surface": "Plain",
+            "Length per Kg (meter)": 70,
+            "Break Strength  Flex (kg)": 396,
+            "Break Strength  Balling (kg)": 360,
+            "Break Strength  Pallet (kg)": 315
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": null,
+            "Surface": "Emboss",
+            "Length per Kg (meter)": 77,
+            "Break Strength  Flex (kg)": 355,
+            "Break Strength  Balling (kg)": 325,
+            "Break Strength  Pallet (kg)": 275
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": 15,
+            "Thickness (mm) (\u00b10.03 mm)": 0.7,
+            "Surface": "Plain",
+            "Length per Kg (meter)": 73,
+            "Break Strength  Flex (kg)": 375,
+            "Break Strength  Balling (kg)": 340,
+            "Break Strength  Pallet (kg)": 300
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": null,
+            "Surface": "Emboss",
+            "Length per Kg (meter)": 80,
+            "Break Strength  Flex (kg)": 335,
+            "Break Strength  Balling (kg)": 310,
+            "Break Strength  Pallet (kg)": 260
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": 15,
+            "Thickness (mm) (\u00b10.03 mm)": 0.8,
+            "Surface": "Plain",
+            "Length per Kg (meter)": 64,
+            "Break Strength  Flex (kg)": 430,
+            "Break Strength  Balling (kg)": 410,
+            "Break Strength  Pallet (kg)": 360
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": null,
+            "Surface": "Emboss",
+            "Length per Kg (meter)": 68,
+            "Break Strength  Flex (kg)": 390,
+            "Break Strength  Balling (kg)": 370,
+            "Break Strength  Pallet (kg)": 320
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": 15,
+            "Thickness (mm) (\u00b10.03 mm)": 1,
+            "Surface": "Plain",
+            "Length per Kg (meter)": 52,
+            "Break Strength  Flex (kg)": 535,
+            "Break Strength  Balling (kg)": 500,
+            "Break Strength  Pallet (kg)": 450
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": null,
+            "Surface": "Emboss",
+            "Length per Kg (meter)": 55,
+            "Break Strength  Flex (kg)": 504,
+            "Break Strength  Balling (kg)": 465,
+            "Break Strength  Pallet (kg)": 410
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": 16,
+            "Thickness (mm) (\u00b10.03 mm)": 0.8,
+            "Surface": "Plain",
+            "Length per Kg (meter)": 61,
+            "Break Strength  Flex (kg)": 460,
+            "Break Strength  Balling (kg)": 430,
+            "Break Strength  Pallet (kg)": 385
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": null,
+            "Surface": "Emboss",
+            "Length per Kg (meter)": 65,
+            "Break Strength  Flex (kg)": 415,
+            "Break Strength  Balling (kg)": 400,
+            "Break Strength  Pallet (kg)": 350
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": 16,
+            "Thickness (mm) (\u00b10.03 mm)": 1,
+            "Surface": "Plain",
+            "Length per Kg (meter)": 48,
+            "Break Strength  Flex (kg)": 570,
+            "Break Strength  Balling (kg)": 540,
+            "Break Strength  Pallet (kg)": 480
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": null,
+            "Surface": "Emboss",
+            "Length per Kg (meter)": 51,
+            "Break Strength  Flex (kg)": 535,
+            "Break Strength  Balling (kg)": 500,
+            "Break Strength  Pallet (kg)": 445
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": 19,
+            "Thickness (mm) (\u00b10.03 mm)": 1,
+            "Surface": "Plain",
+            "Length per Kg (meter)": 40,
+            "Break Strength  Flex (kg)": 680,
+            "Break Strength  Balling (kg)": 650,
+            "Break Strength  Pallet (kg)": 600
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": null,
+            "Surface": "Emboss",
+            "Length per Kg (meter)": 45,
+            "Break Strength  Flex (kg)": 635,
+            "Break Strength  Balling (kg)": 600,
+            "Break Strength  Pallet (kg)": 550
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": 19,
+            "Thickness (mm) (\u00b10.03 mm)": 1.27,
+            "Surface": "Plain",
+            "Length per Kg (meter)": 31,
+            "Break Strength  Flex (kg)": 865,
+            "Break Strength  Balling (kg)": 800,
+            "Break Strength  Pallet (kg)": 750
+        },
+        {
+            "Width (mm) (\u00b1 0.05mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": null,
+            "Surface": "Emboss",
+            "Length per Kg (meter)": 35,
+            "Break Strength  Flex (kg)": 810,
+            "Break Strength  Balling (kg)": 750,
+            "Break Strength  Pallet (kg)": 700
+        }
+    ],
+    "pp-rope": [
+        {
+            "Diameter (mm)": 3,
+            "Weight (g/m)": 4.09,
+            "Minimum Breaking Strength (kg)": 128
+        },
+        {
+            "Diameter (mm)": 4,
+            "Weight (g/m)": 7.27,
+            "Minimum Breaking Strength (kg)": 214
+        },
+        {
+            "Diameter (mm)": 5,
+            "Weight (g/m)": 11.36,
+            "Minimum Breaking Strength (kg)": 375
+        },
+        {
+            "Diameter (mm)": 6,
+            "Weight (g/m)": 16.36,
+            "Minimum Breaking Strength (kg)": 602
+        },
+        {
+            "Diameter (mm)": 7,
+            "Weight (g/m)": 22.7,
+            "Minimum Breaking Strength (kg)": "\u2014"
+        },
+        {
+            "Diameter (mm)": 8,
+            "Weight (g/m)": 29.09,
+            "Minimum Breaking Strength (kg)": 1060
+        },
+        {
+            "Diameter (mm)": 10,
+            "Weight (g/m)": 45.45,
+            "Minimum Breaking Strength (kg)": 1560
+        },
+        {
+            "Diameter (mm)": 12,
+            "Weight (g/m)": 65.45,
+            "Minimum Breaking Strength (kg)": 2210
+        },
+        {
+            "Diameter (mm)": 14,
+            "Weight (g/m)": 89.09,
+            "Minimum Breaking Strength (kg)": 3050
+        },
+        {
+            "Diameter (mm)": 16,
+            "Weight (g/m)": 116.36,
+            "Minimum Breaking Strength (kg)": 3770
+        },
+        {
+            "Diameter (mm)": 18,
+            "Weight (g/m)": 147.27,
+            "Minimum Breaking Strength (kg)": 4810
+        },
+        {
+            "Diameter (mm)": 20,
+            "Weight (g/m)": 181.81,
+            "Minimum Breaking Strength (kg)": 5800
+        },
+        {
+            "Diameter (mm)": 22,
+            "Weight (g/m)": 220,
+            "Minimum Breaking Strength (kg)": 6960
+        },
+        {
+            "Diameter (mm)": 24,
+            "Weight (g/m)": 261.81,
+            "Minimum Breaking Strength (kg)": 8130
+        },
+        {
+            "Diameter (mm)": 26,
+            "Weight (g/m)": 307.27,
+            "Minimum Breaking Strength (kg)": 9410
+        },
+        {
+            "Diameter (mm)": 28,
+            "Weight (g/m)": 356.36,
+            "Minimum Breaking Strength (kg)": 10700
+        },
+        {
+            "Diameter (mm)": 30,
+            "Weight (g/m)": 409.09,
+            "Minimum Breaking Strength (kg)": 12220
+        },
+        {
+            "Diameter (mm)": 32,
+            "Weight (g/m)": 465.45,
+            "Minimum Breaking Strength (kg)": 13500
+        }
+    ],
+    "pp-strap": [
+        {
+            "Width (mm) (\u00b10.05 mm)": 9,
+            "Thickness (mm) (\u00b10.03 mm)": 0.6,
+            "Break Load (kg)": 80,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": 0.7,
+            "Break Load (kg)": 85,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": 11,
+            "Thickness (mm) (\u00b10.03 mm)": 0.6,
+            "Break Load (kg)": 90,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": 0.7,
+            "Break Load (kg)": 110,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": 12,
+            "Thickness (mm) (\u00b10.03 mm)": 0.6,
+            "Break Load (kg)": 110,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": 0.7,
+            "Break Load (kg)": 120,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": 0.8,
+            "Break Load (kg)": 120,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": 15,
+            "Thickness (mm) (\u00b10.03 mm)": 0.6,
+            "Break Load (kg)": 130,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": 0.6,
+            "Break Load (kg)": 130,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": 0.7,
+            "Break Load (kg)": 150,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": 0.7,
+            "Break Load (kg)": 150,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": 0.8,
+            "Break Load (kg)": 160,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": 0.9,
+            "Break Load (kg)": 170,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": 18,
+            "Thickness (mm) (\u00b10.03 mm)": 0.6,
+            "Break Load (kg)": 170,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": 0.7,
+            "Break Load (kg)": 175,
+            "Surface": "Embossed"
+        },
+        {
+            "Width (mm) (\u00b10.05 mm)": null,
+            "Thickness (mm) (\u00b10.03 mm)": 0.8,
+            "Break Load (kg)": 180,
+            "Surface": "Embossed"
+        }
+    ],
+    "braided-pipe": [
+        {
+            "Normal Size": "(mm)",
+            "nan": "(inch)",
+            "Wall Thickness (mm)": null,
+            "Working Pressure (kg/cm\u00b2)": null,
+            "Standard Length (Meters)": null
+        },
+        {
+            "Normal Size": 12,
+            "nan": "\u00bd\u201d",
+            "Wall Thickness (mm)": 2,
+            "Working Pressure (kg/cm\u00b2)": 7,
+            "Standard Length (Meters)": "50 / 100 "
+        },
+        {
+            "Normal Size": 15,
+            "nan": "\u215d\u201d",
+            "Wall Thickness (mm)": 2.5,
+            "Working Pressure (kg/cm\u00b2)": 7,
+            "Standard Length (Meters)": "50 / 100 "
+        },
+        {
+            "Normal Size": 20,
+            "nan": "\u00be\u201d",
+            "Wall Thickness (mm)": 2.5,
+            "Working Pressure (kg/cm\u00b2)": 7,
+            "Standard Length (Meters)": "50 / 100 "
+        },
+        {
+            "Normal Size": 25,
+            "nan": "1\u201d",
+            "Wall Thickness (mm)": 3,
+            "Working Pressure (kg/cm\u00b2)": 5,
+            "Standard Length (Meters)": "50 / 100 "
+        },
+        {
+            "Normal Size": 31,
+            "nan": "1\u00bc\u201d",
+            "Wall Thickness (mm)": 3.5,
+            "Working Pressure (kg/cm\u00b2)": 5,
+            "Standard Length (Meters)": "50 / 100 "
+        }
+    ],
+    "garden-pipe": [
+        {
+            "Normal Size": "Size (mm)",
+            "nan": "Size (Inch)",
+            "Wall Thickness (mm)": null,
+            "Standard Length (Meters)": null
+        },
+        {
+            "Normal Size": 12,
+            "nan": "\u00bd\u201d",
+            "Wall Thickness (mm)": 2.4,
+            "Standard Length (Meters)": "30 / 50 / 100 "
+        },
+        {
+            "Normal Size": 16,
+            "nan": "\u215d\u201d",
+            "Wall Thickness (mm)": 2.4,
+            "Standard Length (Meters)": "30 / 50 / 100 "
+        },
+        {
+            "Normal Size": 19,
+            "nan": "\u00be\u201d",
+            "Wall Thickness (mm)": 2.4,
+            "Standard Length (Meters)": "30 / 50 / 100 "
+        },
+        {
+            "Normal Size": 25,
+            "nan": "1\u201d",
+            "Wall Thickness (mm)": 2.4,
+            "Standard Length (Meters)": "30 / 50 / 100 "
+        }
+    ],
+    "agriculture-shade-net": [
+        {
+            "Shade Percentage (%)": 0.95,
+            " GSM\n( \u00b15%)": 135,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.9,
+            " GSM\n( \u00b15%)": 120,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.8,
+            " GSM\n( \u00b15%)": 100,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.75,
+            " GSM\n( \u00b15%)": 95,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.7,
+            " GSM\n( \u00b15%)": 90,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.65,
+            " GSM\n( \u00b15%)": 80,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.5,
+            " GSM\n( \u00b15%)": 60,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.45,
+            " GSM\n( \u00b15%)": 55,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.4,
+            " GSM\n( \u00b15%)": 50,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        }
+    ],
+    "construction-scaffold-net": [
+        {
+            "Shade Percentage (%)": 0.95,
+            " GSM\n( \u00b15%)": 135,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.9,
+            " GSM\n( \u00b15%)": 120,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.8,
+            " GSM\n( \u00b15%)": 100,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.75,
+            " GSM\n( \u00b15%)": 95,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.7,
+            " GSM\n( \u00b15%)": 90,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.65,
+            " GSM\n( \u00b15%)": 80,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.5,
+            " GSM\n( \u00b15%)": 60,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.45,
+            " GSM\n( \u00b15%)": 55,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        },
+        {
+            "Shade Percentage (%)": 0.4,
+            " GSM\n( \u00b15%)": 50,
+            "Base Polymer": "HDPE",
+            "Raw Material Grade": "Virgin / UV Virgin / Semi-Virgin / RP",
+            "Color Options": "Green / Custom"
+        }
+    ],
+    "suction-pipe": [
+        {
+            "Normal Size": "(mm)",
+            "nan": "Bursting (kg/cm2)",
+            "Diameter": "ID (mm)",
+            "Pressure (at 30\u00b0C)": "Working (kg/cm2)",
+            "Standard Length": "(meters)"
+        },
+        {
+            "Normal Size": 20,
+            "nan": 25,
+            "Diameter": "19.0 \u00b1 0.5",
+            "Pressure (at 30\u00b0C)": 8,
+            "Standard Length": 30
+        },
+        {
+            "Normal Size": 25,
+            "nan": 25,
+            "Diameter": "25.4 \u00b1 0.5",
+            "Pressure (at 30\u00b0C)": 8,
+            "Standard Length": 30
+        },
+        {
+            "Normal Size": 30,
+            "nan": 21,
+            "Diameter": "31.8 \u00b1 0.5",
+            "Pressure (at 30\u00b0C)": 7,
+            "Standard Length": 30
+        },
+        {
+            "Normal Size": 40,
+            "nan": 18,
+            "Diameter": "38.0 \u00b1 0.5",
+            "Pressure (at 30\u00b0C)": 5.5,
+            "Standard Length": 30
+        },
+        {
+            "Normal Size": 50,
+            "nan": 18,
+            "Diameter": "50.8 \u00b1 0.5",
+            "Pressure (at 30\u00b0C)": 4.5,
+            "Standard Length": 30
+        },
+        {
+            "Normal Size": 65,
+            "nan": 18,
+            "Diameter": "63.5 \u00b1 1.0",
+            "Pressure (at 30\u00b0C)": 4.5,
+            "Standard Length": 30
+        },
+        {
+            "Normal Size": 75,
+            "nan": 18,
+            "Diameter": "76.2 \u00b1 1.0",
+            "Pressure (at 30\u00b0C)": 4.5,
+            "Standard Length": 30
+        },
+        {
+            "Normal Size": 100,
+            "nan": 14,
+            "Diameter": "101.2 \u00b1 1.5",
+            "Pressure (at 30\u00b0C)": 4.5,
+            "Standard Length": "15/18/30"
+        },
+        {
+            "Normal Size": 125,
+            "nan": 10,
+            "Diameter": "127.0 \u00b1 1.5",
+            "Pressure (at 30\u00b0C)": 3,
+            "Standard Length": "15/18"
+        },
+        {
+            "Normal Size": 150,
+            "nan": 9,
+            "Diameter": "152.4 \u00b1 1.5",
+            "Pressure (at 30\u00b0C)": 2.5,
+            "Standard Length": "15/18"
+        },
+        {
+            "Normal Size": 200,
+            "nan": 8,
+            "Diameter": "203.2 \u00b1 2.0",
+            "Pressure (at 30\u00b0C)": 2.5,
+            "Standard Length": "4.5/6"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Agriculture & irrigation",
+        "description": "Precision water management and protection for crops."
+    },
+    {
+        "id": 2,
+        "name": "Construction & infrastructure",
+        "description": "Durable materials for building the future."
+    },
+    {
+        "id": 3,
+        "name": "Packaging & logistics",
+        "description": "Secure solutions for global trade and transport."
+    },
+    {
+        "id": 4,
+        "name": "Marine & fisheries",
+        "description": "Resilient gear for the toughest oceanic conditions."
+    },
+    {
+        "id": 5,
+        "name": "Industrial manufacturing",
+        "description": "High-performance components for production lines."
+    },
+    {
+        "id": 6,
+        "name": "Warehousing & transportation",
+        "description": "Optimized storage and protection for inventory."
+    },
+    {
+        "id": 7,
+        "name": "Mining & quarry operations",
+        "description": "Rugged equipment for heavy excavation and processing."
+    },
+    {
+        "id": 8,
+        "name": "Horticulture & greenhouse farming",
+        "description": "Controlled environments for premium plant growth."
+    },
+    {
+        "id": 9,
+        "name": "Oil & chemical industry",
+        "description": "Safe and compliant handling of hazardous materials."
+    },
+    {
+        "id": 10,
+        "name": "Poultry, dairy & livestock farming",
+        "description": "Hygienic and protective solutions for animal husbandry."
+    }
+]

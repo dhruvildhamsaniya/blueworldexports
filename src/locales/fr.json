@@ -1,0 +1,22 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "about": "À propos de nous",
+        "products": "Nos produits",
+        "downloads": "Téléchargements",
+        "export": "Exporter",
+        "industries": "Industries",
+        "contact": "Nous contacter"
+    },
+    "hero": {
+        "pipe": "DES SOLUTIONS DE TUYAUX QUI OFFRENT RÉSISTANCE, FLEXIBILITÉ ET CONFIANCE",
+        "tarpaulin": "DES SOLUTIONS DE COUVERTURE INTELLIGENTES POUR DES BESOINS MONDIAUX",
+        "rope": "DES CORDES PLUS FORTES, DES LIENS PLUS FORTS",
+        "shade_net": "DES SOLUTIONS D'OMBRAGE QUI PROTÈGENT, PERFORMENT ET PRÉSERVENT",
+        "packaging_strap": "CERCLAGE SÉCURISÉ. EMBALLAGE PLUS FORT"
+    },
+    "welcome": {
+        "title": "Bienvenue chez BLUE WORLD",
+        "description": "UNE SOURCE, PLUSIEURS SOLUTIONS, NORMES MONDIALES. Blue World Exports est un partenaire commercial international de premier plan spécialisé dans l'exportation mondiale de produits industriels et agricoles de haute qualité, notamment des cordes, des bâches, des filets d'ombrage, des sangles d'emballage et des tuyaux industriels."
+    }
+}

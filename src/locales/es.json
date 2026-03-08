@@ -1,0 +1,22 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "about": "Sobre Nosotros",
+        "products": "Nuestros Productos",
+        "downloads": "Descargas",
+        "export": "Exportar",
+        "industries": "Industrias",
+        "contact": "Contáctenos"
+    },
+    "hero": {
+        "pipe": "SOLUCIONES DE TUBERÍAS QUE BRINDAN FUERZA, FLEXIBILIDAD Y CONFIANZA",
+        "tarpaulin": "SOLUCIONES DE COBERTURA INTELIGENTE PARA NECESIDADES GLOBALES",
+        "rope": "CUERDAS MÁS FUERTES, LAZOS MÁS FUERTES",
+        "shade_net": "SOLUCIONES DE SOMBRA QUE PROTEGEN, RINDEN Y PRESERVAN",
+        "packaging_strap": "FLEJES SEGUROS. EMPAQUE MÁS FUERTE"
+    },
+    "welcome": {
+        "title": "Bienvenido a BLUE WORLD",
+        "description": "UNA FUENTE, MÚLTIPLES SOLUCIONES, ESTÁNDARES GLOBALES. Blue World Exports es un nombre líder en la provisión de soluciones basadas en polímeros de alta calidad para diversas necesidades industriales y agrícolas."
+    }
+}

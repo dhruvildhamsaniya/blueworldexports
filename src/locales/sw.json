@@ -1,0 +1,22 @@
+{
+    "nav": {
+        "home": "Nyumbani",
+        "about": "Kuhusu Sisi",
+        "products": "Bidhaa Zetu",
+        "downloads": "Pakua",
+        "export": "Mauzo ya Nje",
+        "industries": "Viwanda",
+        "contact": "Wasiliana Nasi"
+    },
+    "hero": {
+        "pipe": "SULUHISHO ZA BOMBA ZINAZOTOA NGUVU, KUNYUIKA NA IMANI",
+        "tarpaulin": "SULUHISHO ZA KIFUNIKO SMART KWA MAHITAJI YA KIDUNIA",
+        "rope": "KAMBA IMARA ZAIDI, MAHUSIANO IMARA ZAIDI",
+        "shade_net": "SULUHISHO ZA KIVULI ZINAZOLINDA, KUFANYA KAZI NA KUHIFADHI",
+        "packaging_strap": "UFUNGAJI SALAMA. UFUNGAJI IMARA ZAIDI"
+    },
+    "welcome": {
+        "title": "Karibu BLUE WORLD",
+        "description": "CHANZO KIMOJA, SULUHISHO NYINGI, VIWANGO VYA KIDUNIA. Blue World Exports ni mshirika mkuu wa biashara wa kimataifa anayebobea katika usafirishaji wa bidhaa za ubora wa juu za viwandani na kilimo, ikiwa ni pamoja na kamba bora, turubai, nyavu za kivuli, kamba za kufungia, na mabomba."
+    }
+}

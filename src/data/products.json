@@ -1,0 +1,459 @@
+[
+    {
+        "id": "pipe",
+        "name": "Pipe",
+        "slug": "pipe",
+        "slogan": "PIPE SOLUTIONS THAT DELIVER STRENGTH, FLEXIBILITY & TRUST",
+        "description": "Discover our comprehensive range of high-performance polymer pipes, including Garden, Suction, Braided, and Layflat variants. Engineered for durability, flexibility, and pressure resistance, our pipes deliver reliable water and fluid transfer solutions for residential, agricultural, and industrial applications globally.",
+        "subcategories": [
+            {
+                "id": "garden-pipe",
+                "name": "Garden Pipe",
+                "slug": "garden-pipe",
+                "description": "Our Garden Hose Pipes are specially designed for convenient and controlled water distribution in everyday applications. Lightweight, flexible, and easy to handle, they are perfect for household, gardening, horticulture, lawn maintenance, car washing, terrace watering, and general cleaning purposes. Made from premium-quality materials, they offer excellent weather resistance and smooth water flow. Available in various colours such as yellow, orange, pink, green, and many more, as well as in different lengths and diameters, our garden hoses combine practicality with long-lasting performance to suit diverse customer needs.",
+                "features": [
+                    "Smooth inner and outer surface for uninterrupted water flow",
+                    "Lightweight construction for easy carrying and handling",
+                    "Flexible and kink-resistant design for hassle-free use",
+                    "Superior grip surface for comfortable operation",
+                    "UV-resistant material for longer outdoor durability",
+                    "Attractive and vibrant colour options",
+                    "Good pressure handling capacity for regular water applications",
+                    "Economical and reliable solution for everyday watering needs"
+                ],
+                "applications": [
+                    "Home Gardening and Lawn Maintenance",
+                    "Plant Nurseries and Horticulture",
+                    "Terrace and Kitchen Garden Watering",
+                    "Car and Vehicle Washing",
+                    "Residential Cleaning Purposes",
+                    "Light Construction Site Water Supply",
+                    "General Household Water Transfer"
+                ],
+                "colors": [
+                    "Orange",
+                    "Yellow",
+                    "Green",
+                    "Pink",
+                    "Blue",
+                    "White",
+                    "Custom colour as per requirement"
+                ],
+                "sizes": [
+                    "Available in various standard lengths and diameters",
+                    "Customizes sizes based on requirement"
+                ]
+            },
+            {
+                "id": "suction-pipe",
+                "name": "Suction Pipe",
+                "slug": "suction-pipe",
+                "description": "Our Suction Hose Pipes are designed for smooth and efficient suction and discharge of water and liquids across various applications. Manufactured with quality PVC and reinforced construction, they provide excellent strength along with superior flexibility. Engineered to resist kinking, crushing, and external pressure, our hoses ensure reliable and long-term performance. We deal in a comprehensive range of suction hose categories including Heavy Duty Suction Pipe, Medium Duty Suction Pipe, Light Duty Suction Pipe, Duct Hose, Non-Toxic Hose, and Extra Flexible Suction Hose, catering to varied operational needs.",
+                "features": [
+                    "Strong and durable construction for reliable long-term performance",
+                    "Smooth inner bore for efficient and quick fluid conveyance",
+                    "Excellent resistance to vacuum and pressure conditions",
+                    "Resistant to kinking, bulging, and bursting during operation",
+                    "Good flexibility for easy handling and installation",
+                    "Chemical and abrasion resistance for demanding environments",
+                    "Available in various grades to suit diverse industrial and agricultural applications"
+                ],
+                "applications": [
+                    "Agriculture and Irrigation Systems",
+                    "Water Suction and Delivery Applications",
+                    "Construction and Civil Engineering Projects",
+                    "Mining, Coal Handling, and Quarry Operations",
+                    "Sewage and Wastewater Disposal",
+                    "Marine and Fisheries Applications",
+                    "Industrial Water Transfer",
+                    "Handling of Saline Water and Selected Chemicals (excluding solvents)"
+                ],
+                "colors": [
+                    "Green",
+                    "Blue",
+                    "Grey",
+                    "Custom colour as per requirement"
+                ],
+                "sizes": [
+                    "Various sizes and diameters available",
+                    "Refer to technical specifications table"
+                ]
+            },
+            {
+                "id": "braided-pipe",
+                "name": "Braided Pipe",
+                "slug": "braided-pipe",
+                "description": "We are a trusted manufacturer and exporter of high-quality PVC Ribbed Braided Hoses, designed with advanced three-layer fibre reinforcement for superior pressure resistance. Reinforced with strong synthetic yarn and soft PVC, these hoses offer an excellent combination of strength, flexibility, and durability. Manufactured in accordance with international quality standards using premium-grade raw materials, they ensure consistent performance in high-pressure conditions. Ideal for residential watering systems, car washing, workshops, and light industrial applications, our PVC Braided Garden Hoses are available in vibrant fluorescent colours such as yellow, orange, pink, green, and more.",
+                "features": [
+                    "Lightweight construction for easy handling and installation",
+                    "Multi-layer yarn reinforcement for enhanced pressure strength",
+                    "Leak-proof and durable design",
+                    "Smooth inner surface for consistent water flow",
+                    "Resistant to bursting, bulging, and deformation",
+                    "Weather and abrasion resistant",
+                    "Longer shelf life with dimensional stability",
+                    "Manufactured in compliance with international quality standards"
+                ],
+                "applications": [
+                    "Residential water supply and watering systems",
+                    "Car washing and service stations",
+                    "Workshops and garages",
+                    "Light industrial water transfer",
+                    "Pneumatic tool air lines (low pressure)",
+                    "Gardening and commercial cleaning purposes",
+                    "Household and utility water connections"
+                ],
+                "colors": [
+                    "Orange",
+                    "Green",
+                    "Blue",
+                    "White",
+                    "Yellow",
+                    "Pink",
+                    "Custom colour as per requirement"
+                ],
+                "sizes": [
+                    "Available in various lengths (e.g. 50m, 100m) and diameters",
+                    "Custom sizing per order"
+                ]
+            },
+            {
+                "id": "layflat-pipe",
+                "name": "Layflat Pipe",
+                "slug": "layflat-pipe",
+                "description": "Our Lay Flat Hose Pipes are developed for fast water discharge where mobility and space-saving are essential. Designed to unroll smoothly and lay flat during operation, they allow quick installation and effortless retrieval after use. These hoses are widely preferred for flood irrigation, temporary water supply lines, construction dewatering, and emergency water management. Built for dependable field performance, they deliver consistent flow efficiency while remaining easy to transport and store.",
+                "features": [
+                    "Corrosion-resistant construction for long-lasting performance",
+                    "Space-saving design \u2013 requires minimal storage area when rolled",
+                    "Tough and puncture-resistant outer surface",
+                    "Remains soft and flexible even in low or sub-zero temperatures",
+                    "Lightweight for easy transportation and quick installation",
+                    "Smooth inner lining for efficient and high-volume water discharge",
+                    "High tensile strength for reliable field performance",
+                    "Easy to roll, unroll, and retrieve after use"
+                ],
+                "applications": [
+                    "Water discharge and delivery in agriculture and irrigation",
+                    "Construction site dewatering and water transfer",
+                    "Mining and quarry operations",
+                    "Marine applications and shipboard water handling",
+                    "Temporary water supply lines",
+                    "Industrial liquid transfer",
+                    "Handling of selected corrosive chemicals (as per material compatibility)"
+                ],
+                "colors": [
+                    "Blue",
+                    "Custom colour as per requirement"
+                ],
+                "sizes": [
+                    "Standard coil lengths",
+                    "Customized cut lengths available"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "tarpaulin",
+        "name": "Tarpaulin",
+        "slug": "tarpaulin",
+        "slogan": "SMART COVERING SOLUTIONS FOR GLOBAL NEEDS",
+        "description": "Secure your valuable assets with our heavy-duty HDPE and LDPE Tarpaulins. Designed to provide superior 100% waterproof protection against rain, sun, wind, and dust, our UV-stabilized tarpaulins ensure long-lasting durability for agriculture, transportation, construction, and general-purpose storage.",
+        "subcategories": [
+            {
+                "id": "hdpe-tarpaulin",
+                "name": "HDPE Tarpaulin",
+                "slug": "hdpe-tarpaulin",
+                "description": "HDPE Tarpaulin sheets are manufactured from high-strength woven polyethylene fabric laminated with protective coatings for superior durability. They provide excellent waterproof performance, UV resistance, and tear strength for outdoor and industrial use. Lightweight yet robust, HDPE tarpaulins are easy to handle, install, and reuse.",
+                "features": [
+                    "Waterproof & Weather Resistant: Protects against rain, dust, wind, and sunlight",
+                    "UV Stabilized: Designed for long outdoor life and resistance to sunlight degradation",
+                    "High Tear & Tensile Strength: Woven HDPE fabric provides excellent durability and load resistance",
+                    "Lightweight & Flexible: Easy to handle, fold, transport, and install",
+                    "Reinforced Edges & Eyelets: Strong hems with rust-proof aluminium grommets for secure fixing",
+                    "Chemical & Rot Resistant: Resistant to moisture, mildew, and chemicals",
+                    "Reusable & Long Lasting: Suitable for repeated outdoor and industrial use",
+                    "Available in Light, Medium & Heavy Grades: Suitable for general, commercial, and industrial applications"
+                ],
+                "applications": [
+                    "Industrial & Storage: Used in godowns, warehouses, factories, effluent plants, and construction sites",
+                    "Agriculture & Aquaculture: Used for lining ponds, greenhouses, and protecting agricultural produce",
+                    "Transportation & Logistics: Covering trucks, trailers, tractors, export/domestic cargo",
+                    "Commercial & Household Use: Covering terraces, temporary shelters, camping, and boat covers"
+                ],
+                "colors": [
+                    "Available in multiple colors (Silver, Blue, Black, Yellow, etc.)",
+                    "Custom colors on request"
+                ],
+                "sizes": [
+                    "Available in Multiple Sizes",
+                    "Custom sizes available on request"
+                ]
+            },
+            {
+                "id": "ldpe-tarpaulin",
+                "name": "LDPE Tarpaulin",
+                "slug": "ldpe-tarpaulin",
+                "description": "LDPE (Low-Density Polyethylene) Tarpaulin is a high-quality, flexible plastic sheet designed for reliable protection in indoor and outdoor environments. Manufactured using premium LDPE material, it offers excellent waterproofing, chemical resistance, and flexibility, making it ideal for covering, lining, and protection applications across multiple industries. LDPE tarpaulins are lightweight, durable, and easy to handle, providing long-lasting performance even in harsh weather conditions.",
+                "features": [
+                    "100% Waterproof: Provides complete protection against rain, moisture, and liquid penetration",
+                    "High Flexibility: Soft and highly flexible material suitable for folding and easy handling",
+                    "UV Stabilized: Resistant to sunlight degradation for extended outdoor use",
+                    "Chemical & Corrosion Resistant: Suitable for industrial and agricultural environments",
+                    "Lightweight & Easy to Install: Convenient for transport, storage, and installation",
+                    "Smooth Surface Finish: Ideal for lining and hygienic applications",
+                    "Tear & Puncture Resistant: Strong material structure for long-term durability",
+                    "Reusable & Long Lasting: Designed for multiple uses with excellent lifespan"
+                ],
+                "applications": [
+                    "Pond, canal, and water tank lining",
+                    "Effluent treatment plant and industrial lining",
+                    "Agriculture and greenhouse flooring",
+                    "Construction site waterproofing and concrete curing",
+                    "Temporary roofing and shelter covering",
+                    "Warehouse and goods protection lining",
+                    "Landfill and waste containment lining"
+                ],
+                "colors": [
+                    "Transparent",
+                    "Black",
+                    "Blue",
+                    "Custom colors available on request"
+                ],
+                "sizes": [
+                    "Available in Multiple Sizes",
+                    "Custom sizes available on request"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "rope",
+        "name": "Rope",
+        "slug": "rope",
+        "slogan": "STRONGER ROPES, STRONGER BONDS",
+        "description": "Stronger ropes for stronger bonds. Our premium HDPE and PP ropes offer excellent tensile strength, UV resistance, and flexibility. Whether for demanding marine environments, heavy-duty industrial lifting, or everyday agricultural and packaging use, our ropes guarantee reliable, weather-resistant performance.",
+        "subcategories": [
+            {
+                "id": "hdpe-rope",
+                "name": "HDPE Rope",
+                "slug": "hdpe-rope",
+                "description": "HDPE (High-Density Polyethylene) rope is a strong, durable, and weather-resistant synthetic rope ideal for heavy-duty use. It offers excellent tensile strength, UV resistance, and low water absorption for reliable performance. Perfect for marine, industrial, construction, and outdoor applications.",
+                "features": [
+                    "High Tensile Strength \u2013 Provides superior load-bearing capacity for heavy-duty use",
+                    "Excellent UV Resistance \u2013 Ideal for prolonged outdoor and marine applications",
+                    "Durable & Long-Lasting \u2013 Resistant to abrasion, wear, and rough handling",
+                    "Low Water Absorption \u2013 Does not rot, swell, or degrade in wet conditions",
+                    "Chemical & Corrosion Resistant \u2013 Withstands exposure to oils, acids, and alkalis",
+                    "Lightweight & Flexible \u2013 Easy to handle, knot, and deploy",
+                    "Smooth Finish \u2013 Prevents fraying and ensures safe usage"
+                ],
+                "applications": [
+                    "Marine & Shipping \u2013 Ideal for mooring lines, anchor ropes, and fishing nets",
+                    "Construction & Industrial Use \u2013 Used for lifting, towing, and heavy-duty material handling",
+                    "Agriculture & Farming \u2013 Suitable for fencing, tying, and outdoor utility purposes",
+                    "Outdoor & Recreational Activities \u2013 Camping, trekking, and sports applications",
+                    "Packaging & Logistics \u2013 Securing heavy goods and cargo during transport",
+                    "General Utility \u2013 Any application requiring strong, durable, and weather-resistant rope"
+                ],
+                "colors": [
+                    "Customizable in various colors"
+                ],
+                "sizes": [
+                    "Custom diameters and lengths available to meet customer needs"
+                ]
+            },
+            {
+                "id": "pp-rope",
+                "name": "PP Rope",
+                "slug": "pp-rope",
+                "description": "We are a leading manufacturer and exporter of high-quality Polypropylene (PP) ropes, offering reliable, lightweight, and durable rope solutions for industrial, marine, agricultural, and packaging applications. Our PP ropes are manufactured using premium-grade raw materials and advanced technology to ensure consistent strength, flexibility, and long service life. We focus on quality, customization, and timely delivery to meet global customer requirements.",
+                "features": [
+                    "Lightweight & Easy Handling \u2013 Very light in weight, making it easy to transport and use",
+                    "Floats on Water \u2013 Ideal for marine and fishing applications",
+                    "High Tensile Strength \u2013 Provides reliable performance for general and industrial use",
+                    "Excellent Chemical Resistance \u2013 Resistant to acids, alkalis, oils, and solvents",
+                    "Moisture & Rot Resistant \u2013 Does not absorb water and will not rot or mildew",
+                    "Abrasion Resistant \u2013 Durable surface for long-term usage",
+                    "UV Stabilized (Optional) \u2013 Suitable for outdoor applications with UV protection",
+                    "Flexible & Smooth Finish \u2013 Easy to knot and handle without damage",
+                    "Cost-Effective Solution \u2013 Economical compared to other synthetic ropes"
+                ],
+                "applications": [
+                    "Marine & Fishing Industry \u2013 Used for fishing nets, small mooring lines, and general marine applications",
+                    "Packaging & Logistics \u2013 Ideal for bundling, tying, and securing goods during transportation",
+                    "Agriculture & Farming \u2013 Used for crop tying, fencing, and animal handling",
+                    "Construction Industry \u2013 Suitable for general tying, scaffolding, and temporary safety applications",
+                    "Industrial Use \u2013 Used in factories for lifting, tying, and material handling",
+                    "Household & Utility Use \u2013 For general domestic and commercial applications",
+                    "Outdoor & Recreational Activities \u2013 Camping, trekking, and sports applications",
+                    "Decorative & Craft Use \u2013 Used in handicrafts, furniture, and decoration industries"
+                ],
+                "colors": [
+                    "Available in Multiple Colors",
+                    "Custom colors available"
+                ],
+                "sizes": [
+                    "Custom diameters and lengths available"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "shade-net",
+        "name": "Shade Net",
+        "slug": "shade-net",
+        "slogan": "SHADE SOLUTIONS THAT PROTECT, PERFORM & PRESERVE",
+        "description": "Create intelligent microclimates and enhance site safety with our advanced Shade Nets. We offer UV-stabilized Agricultural Shade Nets to protect crops from harsh weather, and heavy-duty Scaffolding/Construction Safety Nets for superior debris containment and dust control at infrastructure sites.",
+        "subcategories": [
+            {
+                "id": "agriculture-shade-net",
+                "name": "Agriculture Shade Net",
+                "slug": "agriculture-shade-net",
+                "description": "Our Agricultural Shade Nets are specially designed to protect crops from harsh sunlight, heavy rain, wind, frost, and other unfavourable weather conditions. Manufactured from high-quality UV-stabilized materials, they also provide protection against birds and insects. Widely used in agriculture, horticulture, and nurseries, these nets help create a controlled microclimate that reduces heat intensity, minimizes plant stress during summer, and supports healthy crop growth with improved productivity. We offer shade factors ranging from 30% to 90% and GSM options from 50 GSM to 135 GSM, catering to diverse crop and climate requirements.",
+                "features": [
+                    "Manufactured from virgin HDPE material with UV stabilization for extended outdoor life",
+                    "Available in shade percentages ranging from 30% to 90%",
+                    "Strong, durable, and tear-resistant construction",
+                    "Rust-proof and weather-resistant performance",
+                    "Provides uniform shading and helps regulate temperature and air circulation in greenhouses and nurseries",
+                    "Lightweight, flexible, and easy to install",
+                    "Economical solution with reusable and easy-to-clean properties"
+                ],
+                "applications": [
+                    "Agriculture, Horticulture, and Floriculture Farming",
+                    "Protection from UV rays, birds, insects, and harsh weather conditions",
+                    "Greenhouses, Polyhouses, and Plant Nurseries",
+                    "Vegetable and Fruit Cultivation",
+                    "Poultry Farms, Fish Ponds, and Cattle Shed Roofing",
+                    "Fencing and General-Purpose Shading",
+                    "Construction Sites and High-Rise Buildings for Debris Protection",
+                    "Outdoor Event Flooring and Temporary Shade Structures"
+                ],
+                "colors": [
+                    "Green",
+                    "White",
+                    "Black",
+                    "Blue",
+                    "Custom colour as per requirement"
+                ],
+                "sizes": [
+                    "Various width and length rolls",
+                    "Custom sizes supported"
+                ]
+            },
+            {
+                "id": "construction-scaffold-net",
+                "name": "Construction Scaffold Net",
+                "slug": "construction-scaffold-net",
+                "description": "Our Scaffolding/Construction Safety Nets are designed to enhance safety and protection at construction and infrastructure sites. Manufactured from high-strength, UV-stabilized HDPE material, they help prevent falling debris, control dust dispersion, and improve overall site safety standards. Widely used in high-rise buildings, scaffolding structures, and renovation projects, these nets are durable, weather-resistant, and easy to install. They are available in various GSM options and a wide range of colours to suit different project requirements.",
+                "features": [
+                    "Manufactured from high-strength HDPE with UV stabilization",
+                    "Provides effective debris containment and dust control",
+                    "Durable and tear-resistant construction",
+                    "Weather-resistant for long outdoor exposure",
+                    "Lightweight and easy to install on scaffolding structures",
+                    "High tensile strength for enhanced site safety",
+                    "Corrosion-free and low maintenance",
+                    "Available in various GSM options and colour variants"
+                ],
+                "applications": [
+                    "High-rise building construction projects",
+                    "Scaffolding enclosures and perimeter protection",
+                    "Bridge and flyover construction work",
+                    "Renovation and maintenance projects",
+                    "Industrial plant and infrastructure development sites",
+                    "Temporary site fencing and protective barriers",
+                    "Public safety protection in urban construction zones"
+                ],
+                "colors": [
+                    "Green",
+                    "Blue",
+                    "Black",
+                    "Beige",
+                    "Red",
+                    "Custom colour as per requirement"
+                ],
+                "sizes": [
+                    "Custom width and length",
+                    "Standard roll sizes"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "packaging-strap",
+        "name": "Packaging Strap",
+        "slug": "packaging-strap",
+        "slogan": "SECURE STRAPPING. STRONGER PACKAGING",
+        "description": "Ensure the highest level of load stability during transit with our premium Packaging Straps. We provide high-strength PP and PET strapping rolls that offer an excellent, rust-free alternative to steel straps\u2014perfect for manual, semi-automatic, and fully automatic secure packaging operations.",
+        "subcategories": [
+            {
+                "id": "pp-strap",
+                "name": "PP Strap",
+                "slug": "pp-strap",
+                "description": "Polypropylene (PP) Strap Rolls are lightweight, flexible, and cost-effective strapping solutions used for securing cartons, bundles, and light pallet loads. PP straps are widely used in packaging, logistics, textile, and FMCG industries due to their excellent flexibility, shock resistance, and easy handling. Available in Hand Grade, Semi-Automatic Machine Grade, and Fully Automatic Machine Grade to suit any operation.",
+                "features": [
+                    "High Flexibility: Easy to bend and tension without cracking",
+                    "Lightweight Material: Reduces handling effort and labour fatigue",
+                    "Good Tensile Strength: Ideal for cartons, bundles, and light packaging loads",
+                    "Cost-Effective Packaging Solution: Economical choice for small and medium businesses",
+                    "Excellent Weld Strength (Machine Grade): Provides strong heat-sealed joints for secure packaging",
+                    "High Shock Resistance: Protects packages during transport and handling",
+                    "Precision Controlled Thickness (Auto Grade): Ensures stable and continuous machine operation",
+                    "Recyclable & Eco-Friendly: Made from recyclable polypropylene material"
+                ],
+                "applications": [
+                    "Carton box strapping for small businesses and export",
+                    "Textile and garment bundling",
+                    "Courier and e-commerce parcel packaging",
+                    "Printing and publishing industry bundling",
+                    "Electronics, medical, and FMCG consumer goods packaging",
+                    "High-speed automatic packaging lines & distribution hubs",
+                    "Light to medium-duty pallet strapping"
+                ],
+                "colors": [
+                    "Custom colors & branding options/logo printing available"
+                ],
+                "sizes": [
+                    "Available in Multiple Widths",
+                    "Uniform Thickness & Width",
+                    "Custom sizes available"
+                ]
+            },
+            {
+                "id": "pet-strap",
+                "name": "PET Strap",
+                "slug": "pet-strap",
+                "description": "PET Strap Rolls are high-strength polyester strapping solutions designed for heavy-duty pallet and industrial packaging. Manufactured from premium-grade polyester material, these straps offer excellent tensile strength, tension retention, and weather resistance. PET straps are widely used as a replacement for steel strapping due to their lack of corrosion, user safety, and high strength.",
+                "features": [
+                    "High Tensile Strength: Strong alternative to steel strapping with excellent load-holding capacity",
+                    "Excellent Tension Retention: Maintains tightness during long-distance transportation and storage",
+                    "Weather & UV Resistant: Suitable for outdoor storage and export shipments",
+                    "Rust-Free & Corrosion Resistant: Does not rust or stain products like steel straps",
+                    "Lightweight & Flexible: Easy to handle, transport, and apply with manual or machine tools",
+                    "Shock Absorption: Absorbs vibration and impact, reducing load damage",
+                    "Safe Handling: No sharp edges, reducing risk of worker injury",
+                    "Recyclable & Eco-Friendly: Manufactured from recyclable polyester material"
+                ],
+                "applications": [
+                    "Heavy Pallet Strapping \u2013 Securing palletized goods for transport and storage",
+                    "Steel & Metal Coil Packaging \u2013 Used for steel, aluminium, and metal products",
+                    "Brick, Tile & Cement Block Packaging \u2013 Strong strapping for construction materials",
+                    "Timber & Plywood Packaging \u2013 Bundling wood and panel products",
+                    "Machinery & Industrial Equipment \u2013 Securing heavy industrial goods",
+                    "Export Cargo Packaging \u2013 Container and export shipment strapping",
+                    "Logistics & Warehouse Operations \u2013 Industrial bundling and pallet securing",
+                    "Construction Material Packaging \u2013 Pipes, profiles, and heavy building materials"
+                ],
+                "colors": [
+                    "Green",
+                    "Custom Colours & Branding available"
+                ],
+                "sizes": [
+                    "Available in multiple widths and thicknesses",
+                    "Variants: Embossed, Smooth, Manual Grade, Machine Grade"
+                ]
+            }
+        ]
+    }
+]
